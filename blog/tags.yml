@@ -1,0 +1,34 @@
+facebook:
+  label: Facebook
+  permalink: /facebook
+  description: Facebook tag description
+
+hello:
+  label: Hello
+  permalink: /hello
+  description: Hello tag description
+
+docusaurus:
+  label: Docusaurus
+  permalink: /docusaurus
+  description: Docusaurus tag description
+
+hola:
+  label: Hola
+  permalink: /hola
+  description: Hola tag description
+
+learn:
+    label: Learn
+    permalink: /learn
+    description: Learn tag description
+
+share:
+    label: Share
+    permalink: /share
+    description: Share tag description
+
+note:
+    label: Note
+    permalink: /note
+    description: Note tag description
