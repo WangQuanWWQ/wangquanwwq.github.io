@@ -91,7 +91,7 @@ const config: Config = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/WangQuanWWQ/my-blog',
+          href: 'https://github.com/WangQuanWWQ/wangquanwwq.github.io',
           label: 'GitHub',
           position: 'right',
         },
